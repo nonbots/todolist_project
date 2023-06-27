@@ -1,2 +1,2 @@
-# Ignore all SQLite databases
+# Ignore all node_modules
 node_modules
